@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohp1-data
-- 👀 I’m interested in Machine Learning, Data Science, NLP.
-- 🌱 I’m currently learning Datawarehouse, AWS
+- 👋 Hi, I’m Mohammad Peivandi
+- 👀 I’m interested in Machine Learning, Medical Image Processing, NLP.
+- 🌱 I’m currently learning Datawarehouse, AWS, ...
 - 💞️ I’m looking to collaborate on projects related to Data Science
 - 📫 How to reach me? you can reach me at: mohpeyvandi at gmail
 
