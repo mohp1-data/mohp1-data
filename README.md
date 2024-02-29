@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammad Peivandi
 - 👀 I’m interested in Data Analysis, Medical Image Processing, NLP, few-shot learning.
-- 🌱 I’m currently learning Deep Learning, AWS, ...
-- 💞️ I’m looking to collaborate on projects related to Data Science
+- 🌱 I’m currently learning Deep Learning,...
 - 📫 How to reach me? you can reach me at: mohpeyvandi at gmail
 
 <!---
